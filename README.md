@@ -12,7 +12,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-- 🎓 Systems Engineering student at [Universidad Industrial de Santander (UIS)](https://www.uis.edu.co/), currently in my final semester.
+- 🎓 Systems Engineering at [Universidad Industrial de Santander (UIS)](https://www.uis.edu.co/)
 - ⚙️ Focused on backend development, automation systems and AI-powered workflows.
 - 😎 I build scalable APIs, automation pipelines and backend solutions using Java, Spring Boot, Python and modern backend technologies.
 - 🚀 Currently focused on building efficient, reliable and intelligent backend systems.
@@ -26,7 +26,7 @@
 
 🎓 **Universidad Industrial de Santander (UIS)**
 &nbsp;&nbsp;&nbsp;&nbsp;Systems Engineering
-&nbsp;&nbsp;&nbsp;&nbsp;2020 – Present | Final Semester
+
 
 ---
 
